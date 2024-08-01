@@ -24,4 +24,4 @@ You can edit the code and can create your external loader.
 
 Hope this helps you,
 
-Ceyhun Pempeci STM32 Blink
+Ceyhun Pempeci STM32 External Loader
