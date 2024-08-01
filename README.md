@@ -1,4 +1,4 @@
-# SW-MCU-STM32-ExtLoader-004
+# SW-MCU-STM32-ExtLoader-006
 
 
 Here is a project file to create external loader for STM32 microcontrollers.
